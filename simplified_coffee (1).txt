@@ -1,0 +1,88 @@
+Ethiopia Shakiso Mormora,Medium-Light,Ethiopia,4.7,92
+Ethiopia Suke Quto,Medium-Light,Ethiopia,4.19,92
+Ethiopia Gedeb Halo Beriti,Medium,Ethiopia,4.85,94
+Ethiopia Kayon Mountain,Light,Ethiopia,5.14,93
+Ethiopia Gelgelu Natural Organic,Medium-Light,Ethiopia,3.97,93
+Ethiopia Hambela Alaka,Medium-Light,Ethiopia,5.14,93
+Organic Ethiopia Kirite,Medium-Light,Ethiopia,5.29,93
+Ethiopia Sidama,Medium,Ethiopia,3.76,94
+Decaf Ethiopia Sidamo,Medium,Ethiopia,5.73,90
+Ethiopia Yirgacheffe Washed G1,Medium-Light,Ethiopia,6.87,92
+Ethiopia Yirgacheffe Natural G1,Medium-Light,Ethiopia,6.87,91
+Ethiopia Awassa,Medium-Light,Ethiopia,5.28,93
+100% Kona SL-28,Medium-Light,Hawai'I,33.05,97
+Kenya Kirinyaga Mukangu AB,Medium-Light,Kenya,4.6,95
+Kenya Nyeri Othaya Gatugi Red Cherry Project AA,Medium-Dark,Kenya,5.29,92
+Ethiopia Washed Yirgacheffe Adado,Medium-Light,Ethiopia,3.89,95
+Kenya Mutungati,Medium-Light,Kenya,4.65,94
+Guatemala El Retiro del Quisaya,Light,Guatemala,5.58,93
+Kamwangi Kenya,Medium-Light,Kenya,5.86,93
+Ethiopia Gelana Abaya,Medium-Light,Ethiopia,4.41,92
+Ethiopia Bishan Fugu,Light,Ethiopia,5.58,93
+Ethiopia Amaro Gayo Natural,Medium-Light,Ethiopia,4.98,92
+Static Colombia Decaf Midnight,Medium,Colombia,4.98,89
+Diima #9 Ethiopia Natural,Medium-Light,Ethiopia,7.35,93
+Kenya Thaitu,Medium-Light,Kenya,6.47,95
+Yule Blend 2018,Medium-Light,Kenya,4.41,94
+Ethiopia Banko Gotiti Natural G1,Light,Ethiopia,8.44,94
+Panama Auromar Geisha Natural,Medium-Light,Panama,16.17,96
+Panama Elida Green Tip Gesha Natural,Medium-Light,Panama,32.63,94
+100% Kona Bourbon Pointu Laurina,Medium-Light,Hawai'I,19.82,95
+Kenya AB Muchoki,Medium-Light,Kenya,5.86,95
+Colombia Nariño Duende,Medium-Light,Colombia,4.98,93
+Estate Medium Roast,Medium-Light,Hawai'I,13.0,93
+Ethiopia Holy Grail Natural Yirgacheffe,Medium,Ethiopia,17.7,93
+Blue Label La Esmeralda Porton Pascua Gesha,Medium-Light,Panama,26.46,95
+Auromar Gesha Natural,Light,Panama,17.64,93
+“Naturals”,Medium-Light,Hawai'I,13.23,92
+Finca Merced Guatemala,Light,Guatemala,5.0,93
+El Peñon Nicaragua,Light,Nicaragua,5.28,94
+Static Kenya Kavutiri,Medium-Light,Kenya,7.35,92
+Kenya Gicherori,Medium-Light,Kenya,7.05,91
+Ethiopia Yirgacheffe,Medium,Ethiopia,4.11,90
+Gedeb Ethiopia,Medium-Light,Ethiopia,5.51,95
+Civet Yirgacheffe Sisota,Medium-Light,Ethiopia,90.83,93
+Civet Ethiopia Papilio Sidamo,Medium-Light,Ethiopia,90.83,93
+Estate Carbonic Maceration,Medium-Light,Hawai'I,13.0,90
+Ethiopia Banko Gotiti,Light,Ethiopia,4.99,94
+Colombia David Gomez 100% Caturra,Light,Colombia,5.0,92
+Panama Auromar Estate Geisha Peaberry,Medium-Light,Panama,22.49,95
+Indonesia Emerald Mandheling,Medium-Light,Indonesia,8.02,92
+Panama Finca Hartmann Geisha Natural,Light,Panama,23.81,95
+Ethiopia Reko Estate Yirgacheffe,Medium-Light,Ethiopia,5.58,92
+Mini-Me Washed Kaffa Forest,Medium-Dark,Ethiopia,9.2,95
+Ethiopia Dumerso Light Roast,Medium,Ethiopia,7.05,92
+Kenya AA Karamundi,Medium-Light,Kenya,4.56,92
+Ethiopia Natural Sidamo Papilio,Light,Ethiopia,4.25,93
+Ethiopia Banko Gotiti Natural,Light,Ethiopia,4.6,94
+Peru Finca Ecológica Agua Colorada,Light,Peru,4.85,93
+Guatemala Retiro Natural Process,Medium-Light,Guatemala,4.63,94
+Gaitania Colombia,Medium-Light,Colombia,4.63,93
+Rwanda Remera Kabeza,Medium,Rwanda,4.98,93
+Dodora Double,Light,Ethiopia,8.77,96
+Lekali (Nepal),Medium,Nepal,8.77,90
+Costa Rica Tarrazu,Medium-Light,Costa Rica,7.35,91
+Ethiopia Reko,Medium-Light,Ethiopia,3.31,92
+Kenya Kirinyaga,Light,Kenya,4.41,94
+Ethiopia,Medium-Light,Ethiopia,4.12,93
+Ethiopia Guji Deri Korcha White Honey,Light,Ethiopia,3.92,93
+Rwanda Bufcafe Remera,Medium,Rwanda,4.26,92
+Kona Mocca®,Medium,Hawai'I,19.82,95
+Ethiopia Suke Quto Honey,Medium-Light,Ethiopia,5.28,94
+Ethiopia Worka Natural,Medium-Light,Ethiopia,4.85,93
+Ecuador Pichincha Typica,Medium-Light,Ecuador,6.15,93
+Kenya Ndnunduri,Medium-Light,Kenya,5.0,93
+Ethiopia Gedeb Gotiti,Light,Ethiopia,5.88,93
+Finca La Maria Geisha Natural,Medium-Light,Colombia,22.49,95
+Ethiopia Guji Gigessa,Light,Ethiopia,6.51,94
+Granja La Esperanza Sudan Rume Natural,Medium,Colombia,16.53,95
+Gedeb Espresso,Medium-Light,Ethiopia,5.51,94
+Gaitania Espresso,Medium-Light,Colombia,4.63,93
+Panama Baru Geisha Honey by Joseph,Medium-Light,Panama,12.74,94
+Ethiopia Sidamo Shakiso Danbi Uddo Mulish Natural G1,Medium-Light,Ethiopia,4.93,92
+Panama Baru Geisha Natural by Joseph,Medium-Light,Panama,13.45,94
+Static Indonesia Toarco Sulawesi,Medium-Light,Indonesia,5.88,91
+Brazil Chapada Diamantina Fazenda Floresta,Medium-Light,Brazil,6.61,92
+Ethiopia Banko Gotiti Natural,Light,Ethiopia,4.96,94
+Lycello by Ninety Plus,Medium-Light,Panama,33.07,95
+Lotus by Ninety Plus,Medium-Light,Panama,63.93,95
